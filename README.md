@@ -2,7 +2,8 @@
   # Objective:
   To create and display realtime digital clock. 
 
-
+# Link:
+https://chanraksarwat.github.io/Realtime-Digital-Clock/.
 
 # Pseudocode for Realtime Digital Clock Mini Project
 
