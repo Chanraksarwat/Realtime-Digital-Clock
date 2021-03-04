@@ -1,0 +1,11 @@
+
+#clock {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 4rem; 
+  background-color: aquamarine;
+  letter-spacing: .5rem;
+  padding: 20px;
+  text-align: center;
+  margin: 200px auto;
+  border-radius: 20px;
+}
